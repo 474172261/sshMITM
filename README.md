@@ -21,9 +21,9 @@ It is also possible that a host key has just been changed.
 The fingerprint for the RSA key sent by the remote host is
 SHA256:AUh+CTmEdgI3VuS81DYk7vqR6kBmywet4xExC0mniw4.
 Please contact your system administrator.
-Add correct host key in C:\\Users\\vv474/.ssh/known_hosts to get rid of this message.
-Offending ECDSA key in C:\\Users\\vv474/.ssh/known_hosts:28
-RSA host key for 10.16.60.184 has changed and you have requested strict checking.
+Add correct host key in C:\\Users\\vv/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in C:\\Users\\vv/.ssh/known_hosts:28
+RSA host key for 192.168.1.2 has changed and you have requested strict checking.
 Host key verification failed.
 ```
 
